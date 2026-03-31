@@ -197,7 +197,7 @@ As always, limit access with Least Privilege. Grant only necessary permissions t
 
 ### Ready for Grading
 
-This module is straightforward — follow the steps carefully and keep the SECRET_KEY secure as well as any DockerHub login credentials, and you'll earn full credit.
+This module is straightforward — follow the steps carefully and keep the SECRET_KEY secure as well as any DockerHub login credentials, and you'll earn full credit. What to upload on Gradescope should be self explanatory at this point ;-). 
 
 Avoid breaking Docker, Kubernetes, or Django files, as errors will be flagged by the autograder. The module is designed to pass Gradescope as-is. Just set it up, then configure Secrets and GitHub Actions to deploy to DockerHub.
 
